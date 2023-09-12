@@ -1,0 +1,14 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+}
+
+.titulo{
+    font-size: 3rem;
+    color: rgb(207, 29, 85);
+    background-color: #f8f8f8;
+}
+
+.subtitulo{
+    font-size: 2rem;
+}
